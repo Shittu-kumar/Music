@@ -23,11 +23,11 @@ SONG_DOWNLOAD_DURATION = int(
 
 LOGGER_ID = int(getenv("LOGGER_ID", ""))
 
-OWNER_ID = int(getenv("OWNER_ID", "7552579717"))
+OWNER_ID = int(getenv("OWNER_ID", "8095670572"))
 
-OWNER_USERNAME = getenv("OWNER_USERNAME","AloneHuVai")
+OWNER_USERNAME = getenv("OWNER_USERNAME","Chinii_Tomare")
 
-BOT_USERNAME = getenv("BOT_USERNAME" , "AloneXMusicBot")
+BOT_USERNAME = getenv("BOT_USERNAME" , "TheAirtelMusicRobot")
 
 COMMAND_HANDLER = getenv("COMMAND_HANDLER", "! / .").split()
 
@@ -88,13 +88,13 @@ clean = {}
 autoclean = []
 
 START_IMG_URL = getenv(
-    "START_IMG_URL", "https://files.catbox.moe/7o7i4j.jpg"
+    "START_IMG_URL", "https://files.catbox.moe/9imsfs.jpg"
 )
 PING_IMG_URL = getenv(
-    "PING_IMG_URL", "https://files.catbox.moe/vxp6t1.jpg"
+    "PING_IMG_URL", "https://files.catbox.moe/mcjvy5.jpg"
 )
 PLAYLIST_IMG_URL = "https://files.catbox.moe/gkkinp.jpg"
-STATS_IMG_URL = "https://files.catbox.moe/mvaaba.jpg"
+STATS_IMG_URL = "https://files.catbox.moe/9imsfs.jpg"
 TELEGRAM_AUDIO_URL = "https://files.catbox.moe/1acqoa.jpg"
 TELEGRAM_VIDEO_URL = "https://files.catbox.moe/pz77qq.jpg"
 STREAM_IMG_URL = "https://files.catbox.moe/jztzqe.jpg"
