@@ -8,16 +8,7 @@ from pyrogram.types import InlineKeyboardButton, InlineKeyboardMarkup
 
 start_txt = """
 **
-┌┬─────────────────⦿
-│├─────────────────╮
-│├ 𝗧ɢ 𝗡ᴀᴍᴇ - [⋏ Ł ꪮ ⲛ 𝛆](https://t.me/AlonehuVai)
-│├ 𝗙ᴜʟʟ 𝗜ɴғᴏ - [𝐂ʟɪᴄᴋ 𝐇ᴇʀᴇ](https://t.me/AloneXAbout)
-│├─────────────────╯
-├┼─────────────────⦿
-│├─────────────────╮
-│├ 𝗢ᴡɴᴇʀ│ [𝐀ʟᴏɴᴇ 𝗖ᴏᴅᴇʀ](https://t.me/AlonehuVai)
-│├─────────────────╯
-└┴─────────────────⦿
+
 **
 """
 
@@ -45,7 +36,7 @@ InlineKeyboardButton("\x4F\x46\x46\x49\x43\x49\x41\x4C\x20\x42\x4F\x54", url=f"\
     reply_markup = InlineKeyboardMarkup(buttons)
     
     await msg.reply_photo(
-        photo="https://files.catbox.moe/n2f6fh.jpg",
+        photo="https://files.catbox.moe/9imsfs.jpg",
         caption=start_txt,
         reply_markup=reply_markup
     )
