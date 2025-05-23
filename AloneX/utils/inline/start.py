@@ -12,6 +12,9 @@ def start_panel(_):
             ),
             InlineKeyboardButton(text=_["S_B_2"], url=config.SUPPORT_CHAT),
         ],
+        [
+            InlineKeyboardButton(text="•𝐒ᴜʙsᴄʀɪʙᴇ 𝐓ᴏ 𝐀ɪʀᴛᴇʟ•",url=f"https://t.me/shubhos_timeline"),
+        ],
     ]
     return buttons
 
