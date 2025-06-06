@@ -22,11 +22,11 @@ async def start(_, msg):
           InlineKeyboardButton("⌯ ʌᴅᴅ ϻє ɪη ʏσυʀ ɢʀσυᴘ ⌯", url=f"https://t.me/{app.username}?startgroup=true")
         ],
         [
-          InlineKeyboardButton("⌯ 𝐒ᴜᴘᴘᴏʀᴛ ⌯", url=f"https://t.me/+cy6Q9WPYkfs0OGNl"),
+          InlineKeyboardButton("⌯ 𝐒ᴜᴘᴘᴏʀᴛ ⌯", url=f"https://t.me/+53kHzhGz59lhNmY9"),
           InlineKeyboardButton("⌯ 𝐔ᴘᴅᴀᴛᴇs ⌯", url="https://t.me/shubhos_timeline"),
           ],
                [
-                InlineKeyboardButton("⌯ 𝐒ᴜʙsᴄʀɪʙᴇ 𝐓ᴏ 𝐔ᴘᴅᴀᴛᴇs ⌯", url=f"https://t.me/Airtel_updates"),
+                InlineKeyboardButton("⌯ 𝐒ᴜʙsᴄʀɪʙᴇ 𝐓ᴏ 𝐔ᴘᴅᴀᴛᴇs ⌯", url=f"https://t.me/about_sohini"),
 ],
 [
 InlineKeyboardButton("⌯ 𝐂ɪɴᴇᴋᴏʀɴ 🍿 ⌯", url=f"https://t.me/+diMgtGOhhAdkZDk9"),
