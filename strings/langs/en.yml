@@ -174,8 +174,8 @@ queue_6 : "<b>🕚 ᴅᴜʀᴀᴛɪᴏɴ :</b> ᴜɴᴋɴᴏᴡɴ ᴅᴜʀᴀᴛ
 queue_7 : "\nᴄʟɪᴄᴋ ᴏɴ ʙᴜᴛᴛᴏɴ ʙᴇʟᴏᴡ ᴛᴏ ɢᴇᴛ ᴡʜᴏʟᴇ ǫᴜᴇᴜᴇᴅ ʟɪsᴛ."
 queue_8 : "<b>{0} ᴘʟᴀʏᴇʀ</b>\n\n🎄 <b>sᴛʀᴇᴀᴍɪɴɢ :</b> {1}\n\n🔗 <b>sᴛʀᴇᴀᴍ ᴛʏᴘᴇ :</b> {2}\n🥀 <b>ʀᴇǫᴜᴇsᴛᴇᴅ ʙʏ :</b> {3}\n{4}"
 
-stream_1 : "<b><blockquote>❍ sᴛᴀʀᴛᴇᴅ sᴛʀᴇᴀᴍɪɴɢ</b></blockquote>\n<blockquote><b>❍ ᴛɪᴛʟᴇ ➥</b> <a href={0}>{1}</a>\n<b>❍ ᴅᴜʀᴀᴛɪᴏɴ ➥</b> {2} ᴍɪɴᴜᴛᴇs\n<b>❍ ʙʏ ➥</b> {3}</blockquote>"
-stream_2 : "<b><blockquote>❍ sᴛᴀʀᴛᴇᴅ sᴛʀᴇᴀᴍɪɴɢ</b></blockquote>\n<blockquote><b>❍ sᴛʀᴇᴀᴍ ᴛʏᴘᴇ ➥</b> ʟɪᴠᴇ sᴛʀᴇᴀᴍ [ᴜʀʟ]\n<b>❍ ʙʏ ➥</b> {0}</blockquote>"
+stream_1 : "<b><blockquote>❍ 𝐒ᴏʜɪɴɪ ᴏɴ sᴛʀᴇᴀᴍɪɴɢ</b></blockquote>\n<blockquote><b>❍ ᴛɪᴛʟᴇ ➥</b> <a href={0}>{1}</a>\n<b>❍ ᴅᴜʀᴀᴛɪᴏɴ ➥</b> {2} ᴍɪɴᴜᴛᴇs\n<b>❍ ʙʏ ➥</b> {3}</blockquote>"
+stream_2 : "<b><blockquote>❍ 𝐒ᴏʜɪɴɪ ᴏɴ sᴛʀᴇᴀᴍɪɴɢ</b></blockquote>\n<blockquote><b>❍ sᴛʀᴇᴀᴍ ᴛʏᴘᴇ ➥</b> ʟɪᴠᴇ sᴛʀᴇᴀᴍ [ᴜʀʟ]\n<b>❍ ʙʏ ➥</b> {0}</blockquote>"
 
 
 CLOSE_BUTTON  : "⌯ ᴄʟσsє ⌯"
@@ -192,7 +192,7 @@ S_B_7 : "˹ 𝐑єᴘσ ˼"
 S_B_8 : "˹ 𝐘συᴛυʙє ˼"
 S_B_9 : "˹ 𝐒υᴘᴘσʀᴛ ˼"
 
-A_B_1 : "𝐒ᴜʙsᴄʀɪʙᴇ 𝐓ᴏ 𝐀ɪʀᴛᴇʟ ♥️"
+A_B_1 : "⌯ 𝐒ᴜʙsᴄʀɪʙᴇ ᴛᴏ 𝐒ᴏʜɪɴɪ ⌯"
 H_B_1 : "ᴧᴅϻɪη"
 H_B_2 : "ᴧυᴛʜ"
 H_B_3 : "ɢ-ᴄᴧsᴛ"
