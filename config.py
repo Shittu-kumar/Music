@@ -21,7 +21,7 @@ SONG_DOWNLOAD_DURATION = int(
     getenv("SONG_DOWNLOAD_DURATION_LIMIT", "54000")
 )
 
-LOGGER_ID = int(getenv("LOGGER_ID", "-1002558901219"))
+LOGGER_ID = int(getenv("LOGGER_ID", "-1002498217699"))
 
 OWNER_ID = int(getenv("OWNER_ID", "8095670572"))
 
@@ -44,8 +44,8 @@ GIT_TOKEN = getenv(
     "GIT_TOKEN", ""
 )  # Fill this variable if your upstream repository is private
 
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/Airtel_updates")
-SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/+QcCTHxzcR4w4OTJl")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/About_sohini")
+SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/+53kHzhGz59lhNmY9")
 
 AUTO_LEAVING_ASSISTANT = bool(getenv("AUTO_LEAVING_ASSISTANT", False))
 AUTO_SUGGESTION_MODE = getenv("AUTO_SUGGESTION_MODE", "True")
@@ -88,7 +88,7 @@ clean = {}
 autoclean = []
 
 START_IMG_URL = getenv(
-    "START_IMG_URL", "https://files.catbox.moe/9imsfs.jpg"
+    "START_IMG_URL", "https://files.catbox.moe/dufgfh.jpg"
 )
 PING_IMG_URL = getenv(
     "PING_IMG_URL", "https://files.catbox.moe/mcjvy5.jpg"
